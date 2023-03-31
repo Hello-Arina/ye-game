@@ -38,7 +38,7 @@
 .first-screen .button {
   background: #3849FF;
   position: absolute;
-  top: 39.45vw;
+  bottom: 2vw;
   right: 2.83vw;
   width: 19.26vw;
   height: 7.96vw;
@@ -73,7 +73,7 @@
 
 .second-screen .yeti1 {
   position: absolute;
-  top: 8.1vw;
+  bottom: 0vw;
   left: 15vw;
   width: 75vw;
   height: 41vw;
@@ -83,7 +83,7 @@
 }
 .second-screen .yeti2 {
   position: absolute;
-  top: 12.1vw;
+  bottom: 0vw;
   left: 14vw;
   width: 82vw;
   height: 37vw;
@@ -93,7 +93,7 @@
 }
 .second-screen .yeti3 {
   position: absolute;
-  top: -0.9vw;
+  bottom: 0vw;
   left: 14vw;
   width: 62vw;
   height: 50vw;
@@ -104,7 +104,7 @@
 .second-screen .button2 {
   background: #fff;
   position: absolute;
-  top: 39.45vw;
+  bottom: 2vw;
   right: 2.83vw;
   width: 19.26vw;
   height: 7.96vw;
@@ -194,7 +194,7 @@
 .third-screen .button3 {
   background: #fff;
   position: absolute;
-  top: 39.45vw;
+  bottom: 2vw;
   right: 2.83vw;
   width: 19.26vw;
   height: 7.96vw;
