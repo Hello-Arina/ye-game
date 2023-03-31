@@ -61,7 +61,7 @@ $(document).ready(function(){
         $(".clothes3").css("opacity", "1");
       }
     });
-    
+
     $(".clothes1, .clothes2, .clothes3").droppable({
       accept: ".icon1, .icon2, .icon3",
       drop: function(event, ui) {
@@ -86,13 +86,13 @@ $(document).ready(function(){
   var slideIndex = 1;
     showSlides(slideIndex);
 
-    $(".arrow2").click(function() {
-      slideIndex--;
+    $(".arrow1").click(function() {
+      slideIndex++;
       showSlides(slideIndex);
     });
 
-    $(".arrow1").click(function() {
-      slideIndex++;
+    $(".arrow2").click(function() {
+      slideIndex--;
       showSlides(slideIndex);
     });
 
