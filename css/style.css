@@ -1,0 +1,15 @@
+@import "reset.css";
+@import "layout.css";
+@import "responsive.css";
+@font-face {
+  font-family: 'unlimited pie';
+  src: url('../fonts/UnlimitedPie.ttf') format("truetype");
+}
+@font-face {
+  font-family: 'NKDuy-Mono';
+  src: url('../fonts/NKDuyMono-Medium.ttf') format("truetype");
+}
+@font-face {
+  font-family: 'NKDuy-Mono-extra';
+  src: url('../fonts/NKDuyMono-ExtraBold.ttf') format("truetype");
+}

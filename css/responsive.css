@@ -1,0 +1,297 @@
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+  /* первый экран */
+  .first-screen h1 {
+    top: 20vw;
+  }
+
+  .first-screen .yeti {
+    top: 12.7vw;
+  }
+  .first-screen p {
+    top: 51.45vw;
+  }
+  .first-screen .button {
+    top: 51.45vw;
+  }
+
+  /* второй экран */
+  .second-screen .yeti1 {
+    top: 14.1vw;
+    left: 0vw;
+    width: 83.4vw;
+    height: 57vw;
+  }
+  .second-screen .yeti2 {
+    top: 19.1vw;
+    left: 0vw;
+    width: 81.4vw;
+    height: 52vw;
+  }
+  .second-screen .yeti3 {
+    top: 2.1vw;
+    left: 0vw;
+    width: 82.4vw;
+    height: 69vw;
+  }
+  .second-screen .button2 {
+    top: 61.45vw;
+  }
+  /* третий экран */
+  .third-screen .clothes1 {
+    position: absolute;
+    top: 0vw;
+    width: 100vw;
+    height: 100vh;
+    opacity: 1;
+    background-size: auto 100%;
+    background-repeat: no-repeat;
+    background-image: url(../images/1.png);
+  }
+  .third-screen .clothes2 {
+    height: 71.5vw;
+    background-image: url(../images/2.png);
+  }
+  .third-screen .clothes3 {
+    position: absolute;
+    top: 0vw;
+    width: 100vw;
+    height: 100vh;
+    background-image: url(../images/3.png);
+  }
+  .icon3 {
+    top: 56vw;
+  }
+  .third-screen .button3 {
+    top: 61.45vw;
+  }
+  /* <!-- четвертый экран --> */
+  .four-screen .circle {
+    position: absolute;
+    top: 37vw;
+    left: 22vw;
+  }
+  .four-screen .y1 {
+    height: 82vh;
+  }
+  .four-screen .y2 {
+    height: 69vh;
+  }
+  .four-screen .y3 {
+    height: 82vh;
+  }
+  .four-screen .arrow1 {
+    top: 53vw;
+  }
+  .four-screen .arrow2 {
+    top: 53vw;
+  }
+  .four-screen .button4 {
+    top: 56vw;
+    left: 42vw;
+  }
+  /* <!-- пятый экран --> */
+
+  .five-screen .yeue {
+    top: -19vw;
+    left: 21vw;
+    width: 58vw;
+    height: 101vw;
+  }
+  .five-screen .center {
+    top: 31vw;
+  }
+  .five-screen .center1 {
+    position: absolute;
+    top: 31vw;
+  }
+}
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+  /* первый экран */
+  .first-screen .gora {
+    top: 43vw;
+    width: 100vw;
+    height: 176vw;
+  }
+
+  .first-screen h1 {
+    font-size: 9vw;
+    top: 22vw;
+    left: 6vw;
+  }
+
+  .first-screen .yeti {
+    width: 100vw;
+    top: 50vw;
+    left: 0vw;
+  }
+  .first-screen p {
+    font-size: 5vw;
+    top: 172vw;
+    left: 9vw;
+    text-align: center;
+  }
+  .first-screen .button {
+    top: 196vw;
+    right: 33vw;
+    width: 33vw;
+    height: 12vw;
+  }
+  .first-screen .button .beg {
+    font-size: 6vw;
+    top: 2.3vw;
+    right: 3vw;
+  }
+
+
+  /* второй экран */
+  .second-screen .yeti1 {
+    position: absolute;
+    top: 44.3vw;
+    left: 0vw;
+    width: 100vw;
+    height: 172vw;
+    background-size: auto 100%;
+    background-repeat: no-repeat;
+    background-image: url(../images/7.png);
+  }
+  .second-screen .yeti2 {
+    position: absolute;
+    top: 44.3vw;
+    left: 0vw;
+    width: 100vw;
+    height: 172vw;
+    background-size: auto 100%;
+    background-repeat: no-repeat;
+    background-image: url(../images/6.png);
+  }
+  .second-screen .yeti3 {
+    position: absolute;
+    top: 1.3vw;
+    left: 0vw;
+    width: 100vw;
+    height: 216vw;
+    background-size: auto 100%;
+    background-repeat: no-repeat;
+    background-image: url(../images/5.png);
+  }
+  .second-screen .button2 {
+    top: 196vw;
+    right: 33vw;
+    width: 33vw;
+    height: 12vw;
+  }
+  .second-screen .button2 .dal {
+    font-size: 6vw;
+    top: 2.3vw;
+    right: 5vw;
+  }
+
+  /* третий экран */
+  .third-screen .clothes1 {
+    background-image: url(../images/11.png);
+  }
+  .third-screen .clothes2 {
+    background-image: url(../images/22.png);
+  }
+  .third-screen .clothes3 {
+    background-image: url(../images/33.png);
+  }
+  .icon1 {
+    height: 28vw;
+    left: 70vw;
+    width: 28vw;
+  }
+  .icon2 {
+    width: 36vw;
+    height: 31vw;
+  }
+  .icon3 {
+    top: 167vw;
+    left: 1vw;
+    width: 34vw;
+    height: 20vw;
+  }
+  .third-screen .button3 {
+    top: 196vw;
+    right: 33vw;
+    width: 33vw;
+    height: 12vw;
+  }
+  .third-screen .button3 .dal {
+    font-size: 6vw;
+    top: 2.3vw;
+    right: 5vw;
+  }
+  /* <!-- четвертый экран --> */
+  .four-screen .circle {
+    top: 90vw;
+    left: 4vw;
+    width: 89vw;
+    height: 31vw;
+  }
+  .four-screen .y1 {
+    left: -4vw;
+    width: 104vw;
+    height: 69vh;
+  }
+  .four-screen .y2 {
+    left: -4vw;
+    width: 104vw;
+    height: 60vh;
+  }
+  .four-screen .y3 {
+    left: -4vw;
+    width: 104vw;
+    height: 69vh;
+  }
+  .four-screen .arrow1 {
+    top: 140vw;
+    left: 68vw;
+    width: 31vw;
+    height: 20vw;
+  }
+  .four-screen .arrow2 {
+    top: 140vw;
+    left: 1vw;
+    width: 31vw;
+    height: 20vw;
+  }
+  .four-screen .button4 {
+    top: 196vw;
+    left: 34vw;
+    width: 33vw;
+    height: 12vw;
+  }
+  .four-screen .button4 .dal {
+    font-size: 6vw;
+    top: 2.3vw;
+    right: 5vw;
+  }
+
+  /* <!-- пятый экран --> */
+
+  .five-screen .gora {
+    top: 43vw;
+    width: 100vw;
+    height: 176vw;
+  }
+  .five-screen .yeue {
+    top: 18vw;
+    left: 0vw;
+    width: 100vw;
+    height: 179vw;
+  }
+  .five-screen .center {
+    top: 103vw;
+    left: 39vw;
+    width: 23vw;
+  }
+  .five-screen .center1 {
+    top: 103vw;
+    left: 39vw;
+    width: 23vw;
+  }
+  .five-screen h1 {
+    top: 12vw;
+  }
+}
